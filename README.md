@@ -1,1 +1,1 @@
- Java Bean Converter
+ Java Type Converter Factory
