@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.chris2018998</groupId>
 	<artifactId>magic</artifactId>
-	<version>1.0</version>
+	<version>1.1</version>
 	<name>Magic</name>
 	<url>https://github.com/Chris2018998/Magic</url>
 	<description>Java Type Converter Factory</description>
